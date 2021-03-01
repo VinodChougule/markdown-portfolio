@@ -12,3 +12,6 @@ layout: default
 
 {% include 03-links.md %}
 
+Added name
+Added image
+Added links
